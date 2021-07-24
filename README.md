@@ -1,4 +1,5 @@
-# Coding Challenge
+<h1 align="center">Coding Challenge</h1>
+<p align="center">Started this challenge to keep coding every possible day.</p>
 <h1 align="center">Hi 👋, I'm Mackral</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
