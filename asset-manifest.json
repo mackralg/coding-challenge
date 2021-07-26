@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/coding-challenge/static/css/main.7ba22507.chunk.css",
-    "main.js": "/coding-challenge/static/js/main.eaacc44d.chunk.js",
-    "main.js.map": "/coding-challenge/static/js/main.eaacc44d.chunk.js.map",
+    "main.css": "/coding-challenge/static/css/main.ecc957e8.chunk.css",
+    "main.js": "/coding-challenge/static/js/main.9a67b679.chunk.js",
+    "main.js.map": "/coding-challenge/static/js/main.9a67b679.chunk.js.map",
     "runtime-main.js": "/coding-challenge/static/js/runtime-main.7f080415.js",
     "runtime-main.js.map": "/coding-challenge/static/js/runtime-main.7f080415.js.map",
-    "static/js/2.cf5c6cfa.chunk.js": "/coding-challenge/static/js/2.cf5c6cfa.chunk.js",
-    "static/js/2.cf5c6cfa.chunk.js.map": "/coding-challenge/static/js/2.cf5c6cfa.chunk.js.map",
+    "static/js/2.7109b5f6.chunk.js": "/coding-challenge/static/js/2.7109b5f6.chunk.js",
+    "static/js/2.7109b5f6.chunk.js.map": "/coding-challenge/static/js/2.7109b5f6.chunk.js.map",
     "index.html": "/coding-challenge/index.html",
-    "static/css/main.7ba22507.chunk.css.map": "/coding-challenge/static/css/main.7ba22507.chunk.css.map",
-    "static/js/2.cf5c6cfa.chunk.js.LICENSE.txt": "/coding-challenge/static/js/2.cf5c6cfa.chunk.js.LICENSE.txt"
+    "static/css/main.ecc957e8.chunk.css.map": "/coding-challenge/static/css/main.ecc957e8.chunk.css.map",
+    "static/js/2.7109b5f6.chunk.js.LICENSE.txt": "/coding-challenge/static/js/2.7109b5f6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7f080415.js",
-    "static/js/2.cf5c6cfa.chunk.js",
-    "static/css/main.7ba22507.chunk.css",
-    "static/js/main.eaacc44d.chunk.js"
+    "static/js/2.7109b5f6.chunk.js",
+    "static/css/main.ecc957e8.chunk.css",
+    "static/js/main.9a67b679.chunk.js"
   ]
 }
