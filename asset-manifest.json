@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/coding-challenge/static/css/main.383d4dfe.chunk.css",
-    "main.js": "/coding-challenge/static/js/main.0fa4572e.chunk.js",
-    "main.js.map": "/coding-challenge/static/js/main.0fa4572e.chunk.js.map",
+    "main.js": "/coding-challenge/static/js/main.34769bd0.chunk.js",
+    "main.js.map": "/coding-challenge/static/js/main.34769bd0.chunk.js.map",
     "runtime-main.js": "/coding-challenge/static/js/runtime-main.7f080415.js",
     "runtime-main.js.map": "/coding-challenge/static/js/runtime-main.7f080415.js.map",
     "static/js/2.695cab36.chunk.js": "/coding-challenge/static/js/2.695cab36.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.7f080415.js",
     "static/js/2.695cab36.chunk.js",
     "static/css/main.383d4dfe.chunk.css",
-    "static/js/main.0fa4572e.chunk.js"
+    "static/js/main.34769bd0.chunk.js"
   ]
 }
